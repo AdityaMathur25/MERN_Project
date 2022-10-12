@@ -30,6 +30,14 @@ A month-long celebration from October 1st to October 31st presented by [Digital 
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
+## What's in it for you? 🤔
+- Meet fellow coders, build a team.
+- Get your questions answered and help others by answering theirs.
+- Share your creative ideas about improving this community.
+- Showcase you previous works as a motivation for others.
+- Resources to get you started and sharpening the skills.
+- And lot of things coming from you.
+
 ## Rules :fire:
 To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2022 (in any time zone). PRs can be made to any public repository on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 40,000__ participants who complete the challenge will earn a T-shirt.
 
@@ -143,4 +151,4 @@ Please discuss it with us first by creating a new issue.
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
 
-
+### Show some ❤ by starring⭐ the repository.
